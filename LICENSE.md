@@ -1,4 +1,4 @@
-# 
+# Professionnel ForecastAI configuration. Téléchargez et installez avec open source et déploiement local — rapide, sécurisé et facile à utiliser.
 
 
 
